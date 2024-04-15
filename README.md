@@ -28,10 +28,10 @@
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 Ответ
-![Image alt](https://github.com/niko0la/sdvps-materials/blob/main/1.png)
-
-
-
+![Image alt](https://github.com/niko0la/Nikolay.S-sys-30-8-02/blob/main/1-1.png)
+![Image alt](https://github.com/niko0la/Nikolay.S-sys-30-8-02/blob/main/1-2.png)
+![Image alt](https://github.com/niko0la/Nikolay.S-sys-30-8-02/blob/main/1-3.png)
+![Image alt](https://github.com/niko0la/Nikolay.S-sys-30-8-02/blob/main/1-4.png)
 ---
 
 ### Задание 2
@@ -44,8 +44,8 @@
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 Ответ
-![Image alt](https://github.com/niko0la/sdvps-materials/blob/main/2.png)
-![Image alt](https://github.com/niko0la/sdvps-materials/blob/main/3.png)
+![Image alt](https://github.com/niko0la/Nikolay.S-sys-30-8-02/blob/main/2-1.png)
+![Image alt](https://github.com/niko0la/Nikolay.S-sys-30-8-02/blob/main/2-2.png)
 ---
 
 ### Задание 3
